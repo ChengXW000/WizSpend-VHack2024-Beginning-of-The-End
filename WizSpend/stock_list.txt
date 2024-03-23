@@ -1,0 +1,7 @@
+APPL	Apple		2700	30	80
+GOOG	Google		1700	25	12
+AMZN	Amazon		1500	-5	16
+TSLA	Tesla		900	15	22
+PEP	Pepsico		230	30	30
+INTC	Intel		180	-25	64
+NFLX	Netflix		170	-30	17

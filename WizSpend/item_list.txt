@@ -1,0 +1,6 @@
+iPhone_13_Pro_Max	2	5000.00	30
+Huawei_Phone		2	2000.00	15
+Book			5	120.00	10
+Dessert			5	80.00	5	
+Nike_Sport_Shoes	3	500.00	10
+Music_Album		5	210.00	5

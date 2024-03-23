@@ -1,0 +1,5 @@
+Car_accident	3000	10
+Flood		2500	5
+Tornado		4000	15
+Earthquake 	3000	15
+Fire_disaster	5000	10
